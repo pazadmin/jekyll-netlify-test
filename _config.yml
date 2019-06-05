@@ -55,6 +55,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
+remote_theme: https://github.com/18F/uswds-jekyll.git
 
 # Kramdown options
 kramdown:
