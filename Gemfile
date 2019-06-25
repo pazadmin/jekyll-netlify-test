@@ -15,7 +15,7 @@ gem "jekyll", "~> 3.8"
 # gem "github-pages", group: :jekyll_plugins
 
 # Switch to USWDS theme
-gem "uswds-jekyll"
+gem "18F/uswds-jekyll"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
