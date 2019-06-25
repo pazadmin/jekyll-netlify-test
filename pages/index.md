@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to the Test Site
 permalink: /
 section: home
 intro_paragraph: >
