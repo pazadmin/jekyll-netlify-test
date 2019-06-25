@@ -14,6 +14,9 @@ gem "jekyll", "~> 3.8"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
+# Switch to USWDS theme
+gem "uswds-jekyll"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   #
